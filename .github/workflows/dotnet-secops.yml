@@ -1,4 +1,4 @@
-name: SonarCloud
+name: SonarCloudSCAN
 on:
   push:
     branches:
